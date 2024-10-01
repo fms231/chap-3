@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import "CMakeFiles/homwork.dir/chap-3-2.c.o" -o homwork.exe -Wl,--out-implib,libhomwork.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
